@@ -1,0 +1,146 @@
+{
+  "name": "大化春秋 · HTML5 手机漫游测试版",
+  "version": "html5-v12-roads-pass-2026-11-05",
+  "release_note": "道路已走通（用户试玩确认）",
+  "technology": "HTML5 / Canvas (not Godot, not a Godot Web export)",
+  "snapshot_date": "2026-11-05",
+  "source_commit": "f36b9cbb7b9b25f28a86b9305545e66e980b045f",
+  "runtime_files_unchanged": true,
+  "road_mask_components": 1,
+  "walkable_pixels": 218175,
+  "directional_corridor_checks_passed": 122,
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 2296,
+      "sha256": "1778bea745cb6f19688b0b2c0d086003a14b6fa1bcab51028da3f1781cd751fd",
+      "git_blob_sha1": "952fc97565ce6fd603484f9c1ed0a3807027cf64"
+    },
+    {
+      "path": "QA.md",
+      "bytes": 1926,
+      "sha256": "33801acc5f5b629f78c3e7dce755fb27d78c3f769cebb286319e1bd728d54549",
+      "git_blob_sha1": "5d2bdefe7bf3076a94101db120e2001df2021257"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3046,
+      "sha256": "ee8395a0365b29804796efc5ab067600bebe521a40556a02d61e74815cdc8114",
+      "git_blob_sha1": "4c2157a8c7b2e2e7a00df7985a7ecc944e3e47c0"
+    },
+    {
+      "path": "dist/campus-map.jpg",
+      "bytes": 524586,
+      "sha256": "609474bbf2dac0eb99a33e74f38de0d2f83b1f504b16f0968eba4e2cce8dc7bd",
+      "git_blob_sha1": "229a6b81e8c51fd4dd21769f10f135e0e56784ad"
+    },
+    {
+      "path": "dist/campus-nav.js",
+      "bytes": 2585,
+      "sha256": "877e445ef43eb7269ecbdf59b63fc43f3e55086a3936b377b922beb5c0c170ab",
+      "git_blob_sha1": "c2e06233fc3d55c0910fac6cdf840a4f77b5b9c9"
+    },
+    {
+      "path": "dist/game.js",
+      "bytes": 14444,
+      "sha256": "130dc7507ce8dd0972169857ae605bad2d3c14faa57097d3c7bacef3b2be5992",
+      "git_blob_sha1": "ce05621e1b495f494e3cd7b00372a468137bd1f7"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 11368,
+      "sha256": "37982b17347c6f2a87a5e50a1741e39f661b04745e2f3865a3b0c923059b1602",
+      "git_blob_sha1": "54c4a7e51d9468ebc514882c4071b52f81308147"
+    },
+    {
+      "path": "dist/music.js",
+      "bytes": 1615,
+      "sha256": "ab4122a37e1081b7935133259d7a2e0f00304ad4a4aa37e7364a429108ef9cf8",
+      "git_blob_sha1": "f45ca0555b2c00953aa3fb97afad2a4a0ac1228e"
+    },
+    {
+      "path": "dist/roads.js",
+      "bytes": 825,
+      "sha256": "f2ce7f2dc7dee6d4f859df37804499565b80ac5c51b61226c5e83076b1eab208",
+      "git_blob_sha1": "dc4f3c01a671e9525705a2f7d09df457776de6a0"
+    },
+    {
+      "path": "dist/spring-echo-2050.m4a",
+      "bytes": 1954483,
+      "sha256": "efc9039ae57f41f3debd962d4ebbf28dbb015babc0dbafad82a0b34594290961",
+      "git_blob_sha1": "6e920dc5977aa336911dff5104c8e58100b55f31"
+    },
+    {
+      "path": "dist/spring-echo-2050.ogg",
+      "bytes": 1135243,
+      "sha256": "b0eaec8f4b3f3dbaf570f726054c80ff6df72459d2107d0f7a424786a0ec9d5a",
+      "git_blob_sha1": "d35067e54fac2bf66689c4ae9a540b0ec9e7b908"
+    },
+    {
+      "path": "dist/student-frames.json",
+      "bytes": 3398,
+      "sha256": "d88e1e19037361c64cb19033036f7222fd913cc6ab91c558852b90b8ad0ddcc7",
+      "git_blob_sha1": "559c17a75f55f8ba238b4182c201c151fd68e9e2"
+    },
+    {
+      "path": "dist/student-walk.png",
+      "bytes": 938062,
+      "sha256": "21acf531470b3b6bb5f3a12d50286d59d504d1216000b65f076bd28617bc40f7",
+      "git_blob_sha1": "c5036cacbe75196ba88a4e231a851888c0caa468"
+    },
+    {
+      "path": "dist/walkable.json",
+      "bytes": 186170,
+      "sha256": "988b7e60f56e7f65e18c45764a8e9f1f9f49392f51ac8863dcf31bfffb0f0aba",
+      "git_blob_sha1": "7c620142ec6f9504cb0b50e7481854d403cd0ffe"
+    },
+    {
+      "path": "dist/weather.js",
+      "bytes": 4190,
+      "sha256": "9ddc50ed550c23672f3f9b34541c0962cc79cc7df7d996c86af94f8762fa6fd0",
+      "git_blob_sha1": "c5b934b3ef2bb8b7117a288b50188b94501772c6"
+    },
+    {
+      "path": "extract-roads.py",
+      "bytes": 2401,
+      "sha256": "708c9bcae830c334969d0b5978fd8c836f5dcec393b258f3df7fb28df0d331de",
+      "git_blob_sha1": "a49b54dc9de514dcde48cb24275a07d802f6fad1"
+    },
+    {
+      "path": "road-corridors.json",
+      "bytes": 7739,
+      "sha256": "dabc582b95eb66d1acdf91e5a88d8fa85dac6579ad90f90cd0a95cdbd64351c7",
+      "git_blob_sha1": "1001ce3dd647a04351847223c1d3ae3d018bda97"
+    },
+    {
+      "path": "test-interactions.cjs",
+      "bytes": 2767,
+      "sha256": "155f970f29fa00a78d998f2118ca2ae17daf5bcf89dce7f0a57d1ee67b6905d2",
+      "git_blob_sha1": "6a976fc7cf3e1c069e371a4b9935d0d9bef4bfde"
+    },
+    {
+      "path": "test-music.cjs",
+      "bytes": 1196,
+      "sha256": "dfc66a0d854bfee44b262960a3e74477c1a57676bfb3e8feba8c59ab54c38f78",
+      "git_blob_sha1": "f8a974100a233bfe12298bc193ea436916f80cb3"
+    },
+    {
+      "path": "test-road-network.cjs",
+      "bytes": 1526,
+      "sha256": "bfd0dadc87bbe9ad398a26462e716197c88cfef776ccbf0d198d8fe4602fd3d8",
+      "git_blob_sha1": "dba084751eed5aa7eb677261b0f2a4a1dbe34ce8"
+    },
+    {
+      "path": "test-roads.cjs",
+      "bytes": 1632,
+      "sha256": "3fec8eff8ceac7e6e51b60e30fe7b0d5680a334d2a2305a9193ff544eca22552",
+      "git_blob_sha1": "de5b7901681b0a2d2c7b886e52203dee3ee8d08f"
+    },
+    {
+      "path": "test-weather.cjs",
+      "bytes": 2237,
+      "sha256": "72a3991b8321a36992d281394e7d25045ff034c0288d0b45d401f60ad92c8cae",
+      "git_blob_sha1": "4d02382aee8200aa521b5090203fba9aa350b242"
+    }
+  ]
+}
