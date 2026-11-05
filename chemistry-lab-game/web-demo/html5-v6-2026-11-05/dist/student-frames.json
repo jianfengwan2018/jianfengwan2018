@@ -1,0 +1,161 @@
+{
+  "image": "dahua-student-walk-4x4-v1.png",
+  "imageWidth": 1247,
+  "imageHeight": 1261,
+  "frames": {
+    "down": [
+      {
+        "sx": 135,
+        "sy": 4,
+        "sw": 116,
+        "sh": 307,
+        "anchorX": 58,
+        "anchorY": 304,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 423,
+        "sy": 4,
+        "sw": 113,
+        "sh": 307,
+        "anchorX": 59,
+        "anchorY": 304,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 711,
+        "sy": 4,
+        "sw": 113,
+        "sh": 307,
+        "anchorX": 59,
+        "anchorY": 304,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 1001,
+        "sy": 4,
+        "sw": 117,
+        "sh": 307,
+        "anchorX": 57,
+        "anchorY": 304,
+        "nominalHeight": 300
+      }
+    ],
+    "right": [
+      {
+        "sx": 102,
+        "sy": 318,
+        "sw": 182,
+        "sh": 298,
+        "anchorX": 91,
+        "anchorY": 295,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 419,
+        "sy": 318,
+        "sw": 108,
+        "sh": 297,
+        "anchorX": 63,
+        "anchorY": 294,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 691,
+        "sy": 318,
+        "sw": 177,
+        "sh": 297,
+        "anchorX": 79,
+        "anchorY": 294,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 1004,
+        "sy": 319,
+        "sw": 92,
+        "sh": 299,
+        "anchorX": 54,
+        "anchorY": 296,
+        "nominalHeight": 300
+      }
+    ],
+    "up": [
+      {
+        "sx": 131,
+        "sy": 629,
+        "sw": 114,
+        "sh": 301,
+        "anchorX": 62,
+        "anchorY": 298,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 423,
+        "sy": 628,
+        "sw": 110,
+        "sh": 300,
+        "anchorX": 59,
+        "anchorY": 297,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 710,
+        "sy": 628,
+        "sw": 112,
+        "sh": 302,
+        "anchorX": 60,
+        "anchorY": 299,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 1000,
+        "sy": 628,
+        "sw": 113,
+        "sh": 301,
+        "anchorX": 58,
+        "anchorY": 298,
+        "nominalHeight": 300
+      }
+    ],
+    "left": [
+      {
+        "sx": 82,
+        "sy": 945,
+        "sw": 194,
+        "sh": 296,
+        "anchorX": 111,
+        "anchorY": 293,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 426,
+        "sy": 945,
+        "sw": 103,
+        "sh": 297,
+        "anchorX": 56,
+        "anchorY": 294,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 660,
+        "sy": 945,
+        "sw": 191,
+        "sh": 296,
+        "anchorX": 110,
+        "anchorY": 293,
+        "nominalHeight": 300
+      },
+      {
+        "sx": 1007,
+        "sy": 945,
+        "sw": 100,
+        "sh": 298,
+        "anchorX": 51,
+        "anchorY": 295,
+        "nominalHeight": 300
+      }
+    ]
+  },
+  "rendering": "Use each source rectangle; position destination at footX-anchorX*scale, footY-anchorY*scale with destination size sw*scale, sh*scale. Use common scale=desiredCharacterHeight/300 for all frames. At rest use frame 1. Walk cycle 0,1,2,3 at 7-9fps. Tiny alpha speckles exist below alpha32 outside source rectangles; rectangles exclude most.",
+  "limitations": "Generated 4-frame walk poses, not skeletal animation. Side-view stride frames 0 and 2 are similar; visual foot switching is imperfect."
+}

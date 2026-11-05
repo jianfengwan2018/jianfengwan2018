@@ -1,0 +1,76 @@
+{
+  "name": "大化春秋 · HTML5 手机漫游测试版",
+  "version": "html5-v6-2026-11-05",
+  "technology": "HTML5 / Canvas (not Godot, not a Godot Web export)",
+  "snapshot_date": "2026-11-05",
+  "source_commit": "31b2ae6e3e304d6eb2f18cb4d61f6e1635fa86e6",
+  "runtime_files_unchanged": true,
+  "files": [
+    {
+      "path": "ATTRIBUTION.md",
+      "bytes": 1672,
+      "sha256": "58c5b305e4eecd7a7f062a284441e1c9afa07259d4a21fa59e0132d3253dad95",
+      "git_blob_sha1": "e3035bd0d009d43a7d61664a98467b156d44a7de"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3010,
+      "sha256": "fb759d8820d0bf960352087a98c98b929d84bc4794c54288a7c9ad32a751697c",
+      "git_blob_sha1": "d03d89b81d0f6423f558effaddd49b38e862c88c"
+    },
+    {
+      "path": "dist/campus-map.jpg",
+      "bytes": 524586,
+      "sha256": "609474bbf2dac0eb99a33e74f38de0d2f83b1f504b16f0968eba4e2cce8dc7bd",
+      "git_blob_sha1": "229a6b81e8c51fd4dd21769f10f135e0e56784ad"
+    },
+    {
+      "path": "dist/game.js",
+      "bytes": 14278,
+      "sha256": "ca159d57feb328287a076fc59719434014f821c63f4014676e25e8416861619b",
+      "git_blob_sha1": "88a5b8feb5994cac90dd9a6d6effe79eda53e175"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 9576,
+      "sha256": "a6aa3275f348814688b9a622f9e0e25ce3dac99bbb5b772a9276316b9c471c71",
+      "git_blob_sha1": "03696c05fb35fb99a9b2d9471f98bd0ab3f583be"
+    },
+    {
+      "path": "dist/roads.js",
+      "bytes": 902,
+      "sha256": "960b2ae1953e6a4a4e183235214c8cff77c7de1365022c0669642653cf987694",
+      "git_blob_sha1": "f018a3a368ea9e1e7fb2555bb472071a2c9b4851"
+    },
+    {
+      "path": "dist/student-frames.json",
+      "bytes": 3398,
+      "sha256": "d88e1e19037361c64cb19033036f7222fd913cc6ab91c558852b90b8ad0ddcc7",
+      "git_blob_sha1": "559c17a75f55f8ba238b4182c201c151fd68e9e2"
+    },
+    {
+      "path": "dist/student-walk.png",
+      "bytes": 938062,
+      "sha256": "21acf531470b3b6bb5f3a12d50286d59d504d1216000b65f076bd28617bc40f7",
+      "git_blob_sha1": "c5036cacbe75196ba88a4e231a851888c0caa468"
+    },
+    {
+      "path": "dist/walkable.json",
+      "bytes": 163115,
+      "sha256": "2929d1c1e3c5b01b5d224744c4d0a08fa0ebfca467e177a2d9f71feafd636382",
+      "git_blob_sha1": "b3ebb8a3339cfbc4fad71f7326ed98e48f3160a1"
+    },
+    {
+      "path": "extract-roads.py",
+      "bytes": 1458,
+      "sha256": "8f8362e96aacf6fef1391eed082ca96e46fe1ac82b580e235750e84389dfcfc8",
+      "git_blob_sha1": "2d6e8cc9a7a4257cc5c041c8d4bf9e95226f0451"
+    },
+    {
+      "path": "test-interactions.cjs",
+      "bytes": 2722,
+      "sha256": "60793cbc3a10617188e4dd43880bd8318c500f840b1ab387247886be96dc6e3d",
+      "git_blob_sha1": "aa4bf2ce192b6978b1d92555acce124345bf82b5"
+    }
+  ]
+}
