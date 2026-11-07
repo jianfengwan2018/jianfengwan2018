@@ -1,0 +1,323 @@
+{
+  "schema": "campus-map-archive.v1",
+  "archived_date": "2026-11-07",
+  "image_count": 18,
+  "version_note": "16张区域原始风格图（v1）和2026-11-06拼接审核版；并非最新试玩画面或全校通行验收版。",
+  "images": [
+    {
+      "file": "chemistry-quarter-style-sample-v1.png",
+      "bytes": 3309200,
+      "size": [
+        1600,
+        1260
+      ],
+      "sha256": "bedc2fcb7bbee719541384312e857769f1ccb6ada7054cb20ea25fa3da30227e",
+      "blob_sha": "5dc2c599f507f0559dbf4029146b80884afb2311",
+      "path": "regions/01-chemistry-quarter-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "chemistry-quarter-style-sample-v1.png",
+      "source_created_at": "2026-11-05T11:11:02.218886Z"
+    },
+    {
+      "file": "teaching3-dining-style-sample-v1.png",
+      "bytes": 3121037,
+      "size": [
+        1768,
+        890
+      ],
+      "sha256": "1aed61d16b871c0de0af3ca6ad72ca7af2daacdde7958b44a164949a75f8546a",
+      "blob_sha": "4fca328197ae50d36829dfd3af9263ffe1fc9205",
+      "path": "regions/02-teaching3-dining-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "teaching3-dining-style-sample-v1.png",
+      "source_created_at": "2026-11-05T12:28:45.041832Z"
+    },
+    {
+      "file": "library-central-style-sample-v1.png",
+      "bytes": 3256565,
+      "size": [
+        1477,
+        1065
+      ],
+      "sha256": "2b829b50c65e798c400e33a6c640f9b8e87d8cac2bf7afd75a123e835211ffcb",
+      "blob_sha": "5f65c5a2291da4ce249aeb13cf86995ce22b0a52",
+      "path": "regions/03-library-central-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "library-central-style-sample-v1.png",
+      "source_created_at": "2026-11-05T12:42:59.568059Z"
+    },
+    {
+      "file": "04-west-colleges-style-sample-v1.png",
+      "bytes": 3216936,
+      "size": [
+        1488,
+        1057
+      ],
+      "sha256": "8c1b3c68010ca26e41f247ddfe2c3a6b6f3b5e5f257aebff8803f677a3d526d2",
+      "blob_sha": "87a6393a3efdd62c36272cef8fa022e51dc2b4fe",
+      "path": "regions/04-west-colleges-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "04-west-colleges-style-sample-v1.png",
+      "source_created_at": "2026-11-05T12:54:02.693272Z"
+    },
+    {
+      "file": "05-south-lake-style-sample-v1.png",
+      "bytes": 3142179,
+      "size": [
+        1334,
+        1179
+      ],
+      "sha256": "ac0cd1b938042756eb92fb2f9e371ea9f433d2bcb96a4a79f4c092dbbb434881",
+      "blob_sha": "e2008d6d277bd9f0d664fe1c8aba42e7eeab8cf1",
+      "path": "regions/05-south-lake-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "05-south-lake-style-sample-v1.png",
+      "source_created_at": "2026-11-05T12:57:09.586355Z"
+    },
+    {
+      "file": "06-west-sports-history-style-sample-v1.png",
+      "bytes": 3069661,
+      "size": [
+        1236,
+        1272
+      ],
+      "sha256": "4e6a13305fc2dd8afd620e10e6af9904d2b4ff18d87b585967654cb188887224",
+      "blob_sha": "63ea276f10a1efb86e9ed98b14824224f471de48",
+      "path": "regions/06-west-sports-history-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "06-west-sports-history-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:00:16.911129Z"
+    },
+    {
+      "file": "07-east-sports-style-sample-v1.png",
+      "bytes": 3053387,
+      "size": [
+        1063,
+        1479
+      ],
+      "sha256": "41f9190f844368f872652708cae2dcf5a572fc376adb50c6ca39d5edb6b58b64",
+      "blob_sha": "3c2e93f60d41376db4dfa8cadcff57e3497df260",
+      "path": "regions/07-east-sports-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "07-east-sports-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:04:18.521043Z"
+    },
+    {
+      "file": "08-second-library-style-sample-v1.png",
+      "bytes": 2971043,
+      "size": [
+        1474,
+        1067
+      ],
+      "sha256": "7171c7b517bf9537865b3c562a26ffe7ddb6194f6bc0c680a5db30d764133415",
+      "blob_sha": "f9944c598f7677da1561eabcd300bf9df682d7b3",
+      "path": "regions/08-second-library-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "08-second-library-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:08:36.827711Z"
+    },
+    {
+      "file": "09-student-life-style-sample-v1.png",
+      "bytes": 3104860,
+      "size": [
+        1613,
+        975
+      ],
+      "sha256": "e0c965f7534060cf41ba2db429475b1867bb0c873a134bebc0cf076aca82fb8a",
+      "blob_sha": "ecc54548e16f7baef156c53528e227a462b22927",
+      "path": "regions/09-student-life-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "09-student-life-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:15:51.050567Z"
+    },
+    {
+      "file": "10-staff-residences-style-sample-v1.png",
+      "bytes": 3270392,
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "d2b966d2ac5cdbe76244ed0e54fd95eca905de89f5df37a258ffe929b364bb8b",
+      "blob_sha": "6b502d87d769a008a1f25a5546cfbdbb11d3d83f",
+      "path": "regions/10-staff-residences-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "10-staff-residences-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:23:13.110423Z"
+    },
+    {
+      "file": "11-engineering-style-sample-v1.png",
+      "bytes": 2856849,
+      "size": [
+        1572,
+        1001
+      ],
+      "sha256": "352caffb9dde220e81df0550dec20a2fb1854b728a5f9cbe4ca65fc86b08715b",
+      "blob_sha": "6e67030e20c9f9a06a269a9066af1212f41abe7b",
+      "path": "regions/11-engineering-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "11-engineering-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:25:37.886147Z"
+    },
+    {
+      "file": "12-southeast-style-sample-v1.png",
+      "bytes": 3056736,
+      "size": [
+        1504,
+        1046
+      ],
+      "sha256": "b5223cc1e3c35e0d9ee8a3fefb4a6cbbcb7b39108aa238b46ab2d5a6ec86a806",
+      "blob_sha": "84d4f8420fdb466207510399d5115cc46086ee61",
+      "path": "regions/12-southeast-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "12-southeast-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:29:44.429799Z"
+    },
+    {
+      "file": "13-southwest-research-style-sample-v1.png",
+      "bytes": 3103006,
+      "size": [
+        1685,
+        933
+      ],
+      "sha256": "baeb5372c37bc22156726c9c534526d001691ca530ad50e03ada84a66638d244",
+      "blob_sha": "87a21e8b06d68b88f7e17e2229c5008125f3938a",
+      "path": "regions/13-southwest-research-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "13-southwest-research-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:32:49.691262Z"
+    },
+    {
+      "file": "14-east-teaching-style-sample-v1.png",
+      "bytes": 3172914,
+      "size": [
+        1606,
+        979
+      ],
+      "sha256": "78c0925b649e166a296d7a9aaf69caa2e259aaa970a1a870b3d38681b169d32e",
+      "blob_sha": "4570e37656c248c21235fe2bec0bf8274521990d",
+      "path": "regions/14-east-teaching-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "14-east-teaching-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:35:03.097723Z"
+    },
+    {
+      "file": "15-northwest-green-style-sample-v1.png",
+      "bytes": 2924881,
+      "size": [
+        1774,
+        887
+      ],
+      "sha256": "3efff803f9efad7fc553a07b6c10662fe3c4e56049e5c383722b359868eb983c",
+      "blob_sha": "218034425f0ede172f6a71b53c43fd69af79a43b",
+      "path": "regions/15-northwest-green-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "15-northwest-green-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:37:30.766404Z"
+    },
+    {
+      "file": "16-northeast-green-style-sample-v1.png",
+      "bytes": 3067401,
+      "size": [
+        1663,
+        946
+      ],
+      "sha256": "5e90a3f4943ee837e2506a15fc917f9d8878fcf5f5a9cddce1bbeccda0cb12bf",
+      "blob_sha": "bece54441a501b12c4b1a3f4351f1a278d53a0c0",
+      "path": "regions/16-northeast-green-style-sample-v1.png",
+      "category": "regional_source",
+      "source_name": "16-northeast-green-style-sample-v1.png",
+      "source_created_at": "2026-11-05T13:41:38.364837Z"
+    },
+    {
+      "file": "south_campus_map_2025.jpg",
+      "bytes": 524586,
+      "size": [
+        2048,
+        1228
+      ],
+      "sha256": "609474bbf2dac0eb99a33e74f38de0d2f83b1f504b16f0968eba4e2cce8dc7bd",
+      "blob_sha": "229a6b81e8c51fd4dd21769f10f135e0e56784ad",
+      "path": "original/south_campus_map_2025.jpg",
+      "category": "official_reference",
+      "source_url": "https://xcb.hpu.edu.cn/info/1007/2435.htm",
+      "publication_date": "2025-09-05"
+    },
+    {
+      "file": "campus-unified-review-full-8192-view.jpg",
+      "path": "stitched/campus-unified-review-full-8192-view.jpg",
+      "category": "full_resolution_view_copy",
+      "bytes": 11464564,
+      "size": [
+        8192,
+        4912
+      ],
+      "sha256": "706bb9bebbee9aa31d6269185cdabb99fe93547e8f53e8a4ee99d38efbaf218b",
+      "blob_sha": "354f12e20b8550223ee5c75435bf688e3d241980",
+      "encoding": {
+        "format": "JPEG",
+        "quality": 90,
+        "chroma_subsampling": "4:4:4",
+        "lossy": true
+      },
+      "source_name": "campus-unified-review-full-8192.png"
+    }
+  ],
+  "full_png_original": {
+    "file": "campus-unified-review-full-8192.png",
+    "bytes": 49218541,
+    "size": [
+      8192,
+      4912
+    ],
+    "sha256": "825171d4e05892fcc04587834e106cf6c45b6474da23324bafc5af30ab604e01",
+    "blob_sha": "4dc78a194954212bf8d3d775395fea81a4ee6713",
+    "category": "bit_exact_original_in_parts",
+    "source_created_at": "2026-11-06T02:42:22.368448Z",
+    "restore_output": "stitched/campus-unified-review-full-8192.png",
+    "parts": [
+      {
+        "file": "campus-unified-review-full-8192.png.part01",
+        "bytes": 9000000,
+        "sha256": "85a0975b3f8d0c5177b0b33eecec802e9505befe43b269c7ad7d2d4ebfe39426",
+        "blob_sha": "223c88cdae912c47f882e812072e28217f8eda23",
+        "path": "stitched/png-original-parts/campus-unified-review-full-8192.png.part01"
+      },
+      {
+        "file": "campus-unified-review-full-8192.png.part02",
+        "bytes": 9000000,
+        "sha256": "c234bcf45678bcdf1c51febfb577bd63faa5762870770db255153ffe80a8e391",
+        "blob_sha": "c5691220398b8253232460c99a6fd74b4bc4bef1",
+        "path": "stitched/png-original-parts/campus-unified-review-full-8192.png.part02"
+      },
+      {
+        "file": "campus-unified-review-full-8192.png.part03",
+        "bytes": 9000000,
+        "sha256": "afe07111225d2eb0ee15f4bada1596c3d1129d929c98afdae141dd57df21c200",
+        "blob_sha": "63d9e8a8834da6ed698c05f008424c743cca9b89",
+        "path": "stitched/png-original-parts/campus-unified-review-full-8192.png.part03"
+      },
+      {
+        "file": "campus-unified-review-full-8192.png.part04",
+        "bytes": 9000000,
+        "sha256": "cb651b86a9af1b518af006cee96245a1d4c9d842f4a73dfea820bb189ec41c56",
+        "blob_sha": "4849d9f11d08e4cd321852c62054f131f5bc57cf",
+        "path": "stitched/png-original-parts/campus-unified-review-full-8192.png.part04"
+      },
+      {
+        "file": "campus-unified-review-full-8192.png.part05",
+        "bytes": 9000000,
+        "sha256": "b053c8fce8ac80f5d52cb5b2011e1b8dbcdd84d2ed123430f20153c5f3dbf8a2",
+        "blob_sha": "11c80cbd0d4d19f51e32076af6988cecefd8f3f9",
+        "path": "stitched/png-original-parts/campus-unified-review-full-8192.png.part05"
+      },
+      {
+        "file": "campus-unified-review-full-8192.png.part06",
+        "bytes": 4218541,
+        "sha256": "7c526d67755254de2f05fe979924d5cda044107b8d5d660aebfb78a2d2520ffe",
+        "blob_sha": "2b19a74e46b182b005d6f632e9e5429ee2390daf",
+        "path": "stitched/png-original-parts/campus-unified-review-full-8192.png.part06"
+      }
+    ]
+  },
+  "copyright_note": "官方底图原权利归属不变，再使用授权未核实。"
+}
