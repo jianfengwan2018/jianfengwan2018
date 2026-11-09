@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "repository": "jianfengwan2018/jianfengwan2018",
+  "audited_at": "2026-11-09T10:40:20Z",
+  "audited_git_head": "650817f8a674359291cf6296d85125d394a450bc",
+  "snapshots": [
+    {
+      "id": "godot-initial-20261103T045809Z",
+      "kind": "godot",
+      "version": "initial",
+      "status": "archived",
+      "archived_at": "2026-11-03T04:58:09Z",
+      "archive_commit": "228fd58260778c07d83f688d9157c2d93e4567c7",
+      "root": ".",
+      "tag": null,
+      "note": "Godot 4 初始标题场景；历史提交可恢复。实验玩法尚未实现。"
+    },
+    {
+      "id": "html5-v6-20261105T083609Z",
+      "kind": "html5",
+      "version": "v6",
+      "status": "archived",
+      "archived_at": "2026-11-05T08:36:09Z",
+      "archive_commit": "4646f85c415e242aa3032f5e3b2975afd4f05717",
+      "source_commit": "31b2ae6e3e304d6eb2f18cb4d61f6e1635fa86e6",
+      "root": "web-demo/html5-v6-2026-11-05",
+      "manifest": "version.json",
+      "tag": null,
+      "note": "HTML5 漫游历史快照；source_commit 属于原托管源仓库，archive_commit 属于本 GitHub 仓库。"
+    },
+    {
+      "id": "html5-v12-20261105T104733Z",
+      "kind": "html5",
+      "version": "v12",
+      "status": "archived",
+      "archived_at": "2026-11-05T10:47:33Z",
+      "archive_commit": "7e678eaa4297867fa715d7b47fc2a60931a8b7d9",
+      "source_commit": "f36b9cbb7b9b25f28a86b9305545e66e980b045f",
+      "root": "web-demo/html5-v12-roads-pass-2026-11-05",
+      "manifest": "version.json",
+      "tag": null,
+      "note": "道路已走通（归档时用户试玩确认）；含音乐与天气，不等于完整剧情或实验玩法完成。"
+    },
+    {
+      "id": "maps-review-20261107T031915Z",
+      "kind": "map-assets",
+      "version": "review",
+      "status": "archived",
+      "archived_at": "2026-11-07T03:19:15Z",
+      "archive_commit": "650817f8a674359291cf6296d85125d394a450bc",
+      "root": "maps/campus-2026-11-07",
+      "manifest": "manifest.json",
+      "tag": null,
+      "note": "地图素材归档：16 张区域图、官方底图、整图 JPEG 及无损 PNG 的 6 个分卷。不是游戏发布。"
+    },
+    {
+      "id": "continuous-campus-r25-pending",
+      "kind": "html5",
+      "version": "R25",
+      "status": "pending_archive",
+      "archived_at": null,
+      "archive_commit": null,
+      "source_commit": "c8c5dc2dfe73b4f7b0e22181519f5703275b1d42",
+      "root": null,
+      "tag": null,
+      "note": "托管源版本已存在；本次核查未在 GitHub main 找到完整程序归档。缺失上传与归档核验完成前不得标记 archived 或创建发布标签。"
+    }
+  ],
+  "audited_root_tree": "1acb2a881838fef8984cc455245c89f003202f5f"
+}
