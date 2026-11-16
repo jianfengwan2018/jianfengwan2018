@@ -1,0 +1,24 @@
+name: Archive verified Site R45
+on:
+  push:
+    paths:
+      - '.github/workflows/archive-site-r45.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: archive-site-r45
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify and archive the approved public R45 snapshot
+        run: python3 chemistry-lab-game/tools/archive_site_r45.py
